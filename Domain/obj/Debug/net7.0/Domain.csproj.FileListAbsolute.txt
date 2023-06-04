@@ -1,0 +1,12 @@
+/Users/serenaygozutok/Desktop/UpSchoolFinalProject/UpSchoolFinalProject/Domain/bin/Debug/net7.0/Domain.deps.json
+/Users/serenaygozutok/Desktop/UpSchoolFinalProject/UpSchoolFinalProject/Domain/bin/Debug/net7.0/Domain.dll
+/Users/serenaygozutok/Desktop/UpSchoolFinalProject/UpSchoolFinalProject/Domain/bin/Debug/net7.0/Domain.pdb
+/Users/serenaygozutok/Desktop/UpSchoolFinalProject/UpSchoolFinalProject/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/Users/serenaygozutok/Desktop/UpSchoolFinalProject/UpSchoolFinalProject/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/serenaygozutok/Desktop/UpSchoolFinalProject/UpSchoolFinalProject/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/Users/serenaygozutok/Desktop/UpSchoolFinalProject/UpSchoolFinalProject/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/Users/serenaygozutok/Desktop/UpSchoolFinalProject/UpSchoolFinalProject/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/Users/serenaygozutok/Desktop/UpSchoolFinalProject/UpSchoolFinalProject/Domain/obj/Debug/net7.0/Domain.dll
+/Users/serenaygozutok/Desktop/UpSchoolFinalProject/UpSchoolFinalProject/Domain/obj/Debug/net7.0/refint/Domain.dll
+/Users/serenaygozutok/Desktop/UpSchoolFinalProject/UpSchoolFinalProject/Domain/obj/Debug/net7.0/Domain.pdb
+/Users/serenaygozutok/Desktop/UpSchoolFinalProject/UpSchoolFinalProject/Domain/obj/Debug/net7.0/ref/Domain.dll
